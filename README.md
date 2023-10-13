@@ -5,3 +5,4 @@
 We have created this page to prevent the domain name from being unavailable in mainland China for reasons beyond our control. Please be sure to bookmark this page and it will be updated as soon as the domain name changes. 
 
 ### The current URL is：https://www.nolock.io/
+### alternate address：https://139.196.189.175:9999/
