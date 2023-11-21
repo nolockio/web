@@ -4,7 +4,7 @@
 
 We have created this page to prevent the domain name from being unavailable in mainland China for reasons beyond our control. Please be sure to bookmark this page and it will be updated as soon as the domain name changes. 
 
-### The current URL is：<https://www.nolock.io/>{:target="_blank"}
+
 ### The current URL is：[https://www.olock.io/](https://www.nolock.io/)
 ### alternate address1：[https://noweb.b-cdn.net/](https://noweb.b-cdn.net/)
 ### alternate address2：[https://139.196.189.175:9999/](https://139.196.189.175:9999/)
